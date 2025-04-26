@@ -23,7 +23,6 @@ Our implementation closely follows the original [Tacotron paper](https://arxiv.o
 ## Project Structure
 
 - `Tacotron_article_implementation.ipynb` &nbsp;—&nbsp; Full code and explanations for data loading, model architecture, training loop, and results visualization.
-- (Optional) `FalafelTron` improvements are discussed in the report for future extensions.
 
 ---
 
@@ -88,7 +87,6 @@ Our implementation closely follows the original [Tacotron paper](https://arxiv.o
 
 ## Credits
 
-- This implementation was created by [Arbel Askayo](https://www.linkedin.com/in/arbel-askayo/) and team as a university deep learning project.
 - Based on [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135) by Google (2017).
 
 ---

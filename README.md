@@ -22,7 +22,15 @@ Our implementation closely follows the original [Tacotron paper](https://arxiv.o
 
 ## Project Structure
 
-- `Tacotron_article_implementation.ipynb` &nbsp;—&nbsp; Full code and explanations for data loading, model architecture, training loop, and results visualization.
+- **Tacotron_article_implementation.ipynb**  
+  Jupyter notebook containing:
+  - **1. Introduction & Motivation** – Brief overview of Tacotron and project goals  
+  - **2. Data Loading & Preprocessing** – Steps for downloading and preparing the LJ Speech dataset  
+  - **3. Model Architecture** – Encoder, attention mechanism, decoder, CBHG, and supporting modules  
+  - **4. Training Loop** – Training logic, hyperparameters, and monitoring metrics  
+  - **5. Results & Visualization** – Training/validation losses, attention alignments, spectrograms  
+  - **6. Inference & Audio Generation** – Example TTS output and conversion to waveform  
+  - **7. Discussion & Limitations** – Insights, encountered challenges, and next steps
 
 ---
 

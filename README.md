@@ -83,9 +83,6 @@ Our implementation closely follows the original [Tacotron paper](https://arxiv.o
 - Model performance is limited by available GPU compute and training time.
 - Training on a small subset and for limited epochs results in noisy outputs, as expected for TTS models.
 - For best results, train for hundreds of epochs on the full dataset with powerful GPUs.
-- **Future directions**:  
-  - Implement “FalafelTron”—a Transformer-based TTS model as an improvement over Tacotron.
-  - Explore modern neural vocoders (WaveGlow, HiFi-GAN, etc.) for higher quality synthesis.
 
 ---
 
@@ -98,9 +95,6 @@ Our implementation closely follows the original [Tacotron paper](https://arxiv.o
 
 ## License
 
-MIT License (add your license if needed).
+MIT License.
 
 ---
-
-**Let me know if you want any section expanded, specific usage instructions, or to include any links/files for inference samples!  
-If you’re happy, I’ll copy this in markdown format so you can drop it right into your repo.**
